@@ -40,7 +40,9 @@ To run the tests, ensure you have the following installed:
 - **Cucumber java**
 - **Jackson databind**
 
-
+3. **API documentation source**
+   
+   https://github.com/vdespa/introduction-to-postman-course/blob/main/simple-books-api.md
 
 
 
